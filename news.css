@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #444343;
+    color:  #D7c49eff;
+    padding: 10px;
+}
+.bottons{
+    width: 1%;
+    height:1%; 
+    margin-left: 92.2%; 
+    margin-top: -4%;
+
+} 
+
+header img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 10;
+    margin-left: 40px;
+    
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+
+header nav ul li a {
+    color: #D7c49eff;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color:  #343148ff;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+main{
+    padding: 20px;
+    background-color: rgb(34, 34, 34);
+}
+
+section {
+    padding: 20px;
+
+}
+
+
+#history{
+    background-color:  #D7c49eff;
+    text-align: center;
+}
+
+#mission {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#products {
+    background-color:  #D7c49eff;
+    text-align: center;
+}
+
+#sustainability {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px 0;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
